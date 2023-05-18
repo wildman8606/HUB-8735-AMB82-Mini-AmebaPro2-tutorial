@@ -18,9 +18,11 @@ HUB 8735 Smart AI CAM是具備多功能影像處理的高度集成模組，內�
 ## 講師聯絡
 
 **YouTube:** https://www.youtube.com/@peter8606
+
 **Facebook:** https://www.facebook.com/peter8606
 
 
 ## 補充
 物聯網智造基地：https://www.ideas-hatch.com/iot_service_hub.jsp
+
 國產IC智造工具包：https://www.ideas-hatch.com/mem_evb.jsp

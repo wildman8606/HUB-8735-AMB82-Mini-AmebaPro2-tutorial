@@ -1,0 +1,7 @@
+classes = 3
+train   = ./all_train.txt
+valid   = ./test.txt
+names   = ./my_ai.names
+backup  = /content/gdrive/MyDrive/data/results
+results = /content/gdrive/MyDrive/data/results
+eval    = coco 

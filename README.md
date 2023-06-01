@@ -26,7 +26,7 @@ HUB 8735 Smart AI CAM是具備多功能影像處理的高度集成模組，內�
 活動日期 / Date：  ****2023/05/19** 14:00 ~ 17:00**
 活動地點：【北部物聯網智造基地】民生科技服務大樓Living Lab+(台北市民生東路4段133號2樓)
 
-[![](https://github.com/wildman8606/HUB-8735-AMB82-Mini-AmebaPro2-tutorial/img/peko.jpg)]
+[![](https://github.com/wildman8606/HUB-8735-AMB82-Mini-AmebaPro2-tutorial/blob/master/img/peko.jpg)]
 
 ## 講師聯絡
 

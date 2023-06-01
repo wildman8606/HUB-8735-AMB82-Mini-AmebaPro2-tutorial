@@ -1,4 +1,6 @@
 # HUB 8735 國產IC應用實作開發系列活動
+大家好，簡單好操作的HUB 8735 (AMB82 MINI、AmebaPro2)的手把手教學自製模型於19號於資策會有開課教學。我這邊有重新錄製當天教學內容，有需要可配溫開水服用，之後還會推出多個案例~
+新一代AIoT Camera方案- HUB 8735，可直接運行多款AI模型，模組精簡容易自行開發，輕鬆替換一般IoT Camera。由國內瑞昱大廠與資策會極力推廣，比ESP32-CAM具有AI功能的升級，增加內置NPU AI 運算引擎。
 HUB 8735實務Training影片教學:
 https://www.youtube.com/watch?v=YZafxlf89aA
 

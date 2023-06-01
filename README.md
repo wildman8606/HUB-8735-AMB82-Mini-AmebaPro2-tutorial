@@ -1,5 +1,6 @@
 # HUB 8735 國產IC應用實作開發系列活動
 HUB 8735實務Training
+https://www.youtube.com/watch?v=YZafxlf89aA
 
 HUB 8735 Smart AI CAM是具備多功能影像處理的高度集成模組，內置NPU AI 運算引擎，加速處理AI模型以及802.11 a/b/g/n 雙頻Wi-Fi與BLE低耗電藍牙傳輸，可廣泛應用於各種結合影像識別或 AI運算之物聯網場域，適用於智能家庭，工業物聯網，智慧零售，健康照護或是車用電子等場景；多款Pre-trained AI models已最佳化在模組直接運行，可做 為AI教學之體驗工具；同時尺寸僅30.5x43.9mm，亦為可直接整合在產品設計中做為快速導入Edge AI應用的快製套件。HUB 8735主要特色包括： 
 
